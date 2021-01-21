@@ -6,7 +6,7 @@ function Chats() {
     return (
         <div className="chats">
             <Chat
-            name="Mark"
+            name="Hamid A."
             message="welocome"
             timestamp="30 minuts ago"
             profilePic="https://1847884116.rsc.cdn77.org/hindi/gallery/actor/sushantsinghrajput/sushante_poster.jpg" />
